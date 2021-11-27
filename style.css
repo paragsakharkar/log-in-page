@@ -1,0 +1,29 @@
+body {
+    background-color: skyblue;
+}
+.text {
+  
+   margin-bottom: 10px;
+}
+.psw {
+display:block;
+    margin-bottom: 10px;
+    
+}
+.btn {
+  display: block;
+    padding: 0px;
+}
+.input {
+display: block;
+margin-bottom: 10px;
+}
+.input1 {
+    display: block;
+    margin-bottom: 10px;
+}
+.hv {
+    font-weight: 1;
+    
+}
+
